@@ -84,9 +84,6 @@ In the app, move the sliders and click **Predict** to get:
 - **High chance of strong performance** with probability, or
 - **Risk of weak performance** with risk probability
 
-## Screenshot
-
-_Add your app screenshot here after running Streamlit._
 
 ## Future Improvements
 
